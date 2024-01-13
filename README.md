@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for job opportunities and reseach in ML/DS/AI
 - 🤔 I’m always available to work
 - 💬 Ask me about anything
-- 📫 How to reach me: gxt6403@mavs.uta.edu  
+- 📫 How to reach me: gauravthorat1998a@gmail.com  
 - ⚡ Fun fact: Not a good developer...LOL...;)
 <!-- 
 - 😄 Pronouns: ...
