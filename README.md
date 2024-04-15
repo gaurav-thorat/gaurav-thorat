@@ -6,8 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=G-G-Thorat&theme=juicyfresh  )](https://github.com/ryo-ma/github-profile-trophy)
 
-Here are some ideas to get you started:
-
+About Me:
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 - 🔭 I’m currently working at UT Arlington
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 👯 I’m looking for job opportunities and reseach in ML/DS/AI
