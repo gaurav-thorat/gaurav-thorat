@@ -5,13 +5,13 @@
 -->
 About Me:
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-- 🔭 I’m currently working at UT Arlington
-- 🌱 I’m currently learning Machine Learning and Data Science
+- 🔭 I’m currently working at Bank of America
+- 🌱 I’m currently learning Generative AI
 - 👯 I’m looking for job opportunities and reseach in ML/DS/AI
 - 🤔 I’m always available to work
 - 💬 Ask me about anything
 - 📫 How to reach me: gauravthorat1998a@gmail.com  
-- ⚡ Fun fact: Not a good developer...LOL...;)
+- ⚡ Fun fact: I'm a Stand-Up artist...;)
 - 😄 Pronouns: He/Him
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&langs_count=5&theme=tokyonight)]()
