@@ -6,7 +6,7 @@
 **G-G-Thorat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 About Me:
-<!--<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />-->
+<img  src="./gt_1.jpg" height="290px" align="right" />
 - 🔭 I’m currently working at Bank of America
 - 🌱 I’m currently learning Generative AI
 - 👯 I’m looking for job opportunities and reseach in ML/DS/AI
