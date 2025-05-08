@@ -42,4 +42,4 @@ About Me:
 ## 📫 Let's Connect
 <!-- Add social media links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-thorat-16b20a112/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9B59B6?style=flat-square&logo=portfolio&logoColor=white)](https://g-g-thorat.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9B59B6?style=flat-square&logo=portfolio&logoColor=white)](https://www.github.com/)
