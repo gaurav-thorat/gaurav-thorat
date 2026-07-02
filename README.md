@@ -7,7 +7,7 @@
 -->
 About Me:
 <img  src="./gt_4.jpg" height="500px" align="right" />
-- 🔭 I’m currently working at Bank of America
+- 🔭 I’m currently working at M&T Bank
 - 🌱 I’m currently learning Generative AI
 - 👯 I’m looking for job opportunities and reseach in ML/DS/AI
 - 🤔 I’m always available to work
